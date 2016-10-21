@@ -1,0 +1,11 @@
+cliente.erl:132:<7014.39.0>: procesa obten vista en cliente vista valida = {vista,2,'c1@127.0.0.1',
+                                               'c2@127.0.0.1'}
+
+cliente.erl:72:<0.42.0>: 'maestro@127.0.0.1' : obten vista en cliente TIMEOUT = 'c1@127.0.0.1' 
+
+servicio_vistas_tests.erl:17:<0.42.0>: comprobar VISTA {vista,0,undefined,undefined} false!!!!
+
+servicio_vistas_tests.erl:19:<0.42.0>: comprobar primario undefined !!!!
+
+servicio_vistas_tests.erl:21:<0.42.0>: Primario esperado 'c1@127.0.0.1', obtenido undefined
+
